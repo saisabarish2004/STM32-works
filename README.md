@@ -4,7 +4,7 @@
 
 **Peripheral tests, protocol experiments, and practice code — STM32 bare-metal / HAL**
 
-[![View Full Archive on Google Drive](https://img.shields.io/badge/📁_View_Full_Archive-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]((https://drive.google.com/drive/folders/1cUPxuDmPQ3kbBGxexdcfCe1ZRQcyjSc4?usp=sharing))
+[![View Full Archive on Google Drive](https://img.shields.io/badge/📁_View_Full_Archive-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1cUPxuDmPQ3kbBGxexdcfCe1ZRQcyjSc4?usp=sharing)
 
 </div>
 
