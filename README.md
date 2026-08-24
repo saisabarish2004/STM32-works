@@ -6,7 +6,7 @@
 
 <img src="assets/banner.jpg" width="100%" alt="STM32 workbench"/>
 
-[![View Full Archive on Google Drive](https://img.shields.io/badge/📁_View_Full_Archive-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_DRIVE_LINK)
+[![View Full Archive on Google Drive](https://img.shields.io/badge/📁_View_Full_Archive-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1cUPxuDmPQ3kbBGxexdcfCe1ZRQcyjSc4?usp=drive_link)
 
 </div>
 
